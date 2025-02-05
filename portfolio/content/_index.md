@@ -3,3 +3,5 @@ On this site, you'll find
 * My biography
 * My projects
 * My résumé
+
+I want to get an A
